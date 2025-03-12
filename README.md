@@ -1,7 +1,7 @@
 # Creating a .NET API with WebSockets and JWT authentication for real-time chat
 
-+ .NET
-+ .NET Web API
++ .NET 9.0
++ Web API
 + ASP.NET Web API
 + Real-time Chat
 + JWT Authentication
@@ -10,7 +10,9 @@
 + OpenAI
 + GPT-4 from OpenAI
 + Testing: Postman or wscat
-+ SSH and SFTP
++ SSH and SFTP Client
++ Authentication and Authorization
++ Authorization Requests in .NET 9
 
 ## 1. Creating a .NET API with WebSockets and JWT authentication for real-time chat
 
@@ -45,5 +47,8 @@ https://dev.to/mustafasamedyeyin/authorization-types-1b13
 * SSO
 * OAuth
 
-## 4. SFTP Client
+## 4. Authorization Requests in .NET 9
+https://dev.to/oktadev/pushed-authorization-requests-in-net-9-why-and-how-to-use-them-53ba
+
+## 5. SFTP Client
 https://dev.to/amjadmh73/sftp-client-using-net-3an2
