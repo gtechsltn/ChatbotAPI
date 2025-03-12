@@ -10,12 +10,13 @@
 + OpenAI
 + GPT-4 from OpenAI
 + Testing: Postman or wscat
++ SSH and SFTP
 
-## Creating a .NET API with WebSockets and JWT authentication for real-time chat
+## 1. Creating a .NET API with WebSockets and JWT authentication for real-time chat
 
 https://dev.to/adrianbailador/creating-a-net-api-with-websockets-and-jwt-authentication-for-real-time-chat-4np3
 
-## Authentication Types
+## 2. Authentication Types
 
 https://dev.to/mustafasamedyeyin/ways-to-authentication-2khl
 
@@ -28,7 +29,7 @@ https://dev.to/mustafasamedyeyin/ways-to-authentication-2khl
 * JWT
 * SSO
 
-## Authorization Types
+## 3. Authorization Types
 https://dev.to/mustafasamedyeyin/authorization-types-1b13
 
 ### Authorization Types:
@@ -43,3 +44,6 @@ https://dev.to/mustafasamedyeyin/authorization-types-1b13
 * JWT
 * SSO
 * OAuth
+
+## 4. SFTP Client
+https://dev.to/amjadmh73/sftp-client-using-net-3an2
