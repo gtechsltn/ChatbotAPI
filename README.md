@@ -9,6 +9,7 @@
 + ChatGPT
 + OpenAI
 + GPT-4 from OpenAI
++ Testing: Postman or wscat
 
 Creating a .NET API with WebSockets and JWT authentication for real-time chat
 
